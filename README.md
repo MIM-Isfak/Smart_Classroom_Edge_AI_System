@@ -2,7 +2,7 @@
 
 An Edge AI-powered system that detects classroom occupancy from video, performs real-time inference on an edge device, automatically simulates air conditioning control, and provides live monitoring through a web dashboard.
 
-**Course:** Edge Computing | **Instructor:** Thulasee Shan | **University of Jaffna, Class of 2026**
+**Course:** Edge Computing | **Instructor:** Thulasee Shan | **University of Jaffna**
 
 > **Note:** This is a fork of the original group project repository: [dilshanrathnaweera/Smart_Classroom_Edge_AI_System](https://github.com/dilshanrathnaweera/Smart_Classroom_Edge_AI_System). I worked on this project as the **Product Owner**. See the team table below.
 
