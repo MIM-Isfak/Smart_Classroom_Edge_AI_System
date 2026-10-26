@@ -6,14 +6,16 @@ An Edge AI-powered system that detects classroom occupancy from video, performs 
 
 ---
 
-## 👥 Team & Project Ownership
+## 👥 Team Structure & Roles
 
-*This repository is a fork of the core group project repository. My explicit contributions and my team members' roles are outlined below:*
+*This repository is a fork of the core group project repository. Detailed below are the definitive roles held by each member during development:*
 
-* **Mohamed Isfak (Me):** **Product Owner** — Responsible for requirement gathering, system architecture design, roadmap management, project tracking, documentation, and the final technical demonstration.
-* **Project Manager:** Dilshan Rathnaweera
-* **App Developers:** Anjana Kavinda, Sanduni Thilakasiri, Perinpanathan Mathushica
-* **Data Scientists:** Manivannan Nirmalan, K.S.I. Kaviraja, R.M.C. Sandharuwan Rathnayaka
+| Role | Members | Responsibilities |
+| :--- | :--- | :--- |
+| **Product Owner** | **Mohamed Isfak (Me)** | Requirement gathering, system architecture design, roadmap management, documentation, final demonstration. |
+| **Project Manager** | Dilshan Rathnaweera | Team coordination, progress tracking, repository management, presentation setup. |
+| **App Developers** | Anjana Kavinda, Sanduni Thilakasiri, Perinpanathan Mathushica | Edge application development, Streamlit dashboard UI creation, AC control logic simulation. |
+| **Data Scientists** | Manivannan Nirmalan, K.S.I. Kaviraja, R.M.C. Sandharuwan Rathnayaka | Dataset curation, model training/optimization (YOLOv8), ONNX export, and MLOps pipelines. |
 
 ---
 
